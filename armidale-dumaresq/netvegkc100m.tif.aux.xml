@@ -1,0 +1,756 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>7000</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>2386359|2231038|62581|65130|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1746817|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3855|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|21812|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|737280|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|92004|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|99684|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|8621</HistCounts>
+      </HistItem>
+    </Histograms>
+    <GDALRasterAttributeTable>
+      <FieldDefn index="0">
+        <Name>Rowid</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>VALUE</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>COUNT</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="3">
+        <Name>CLASS_COD</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="4">
+        <Name>CLASS_NAM</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="5">
+        <Name>FORM_NUM</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="6">
+        <Name>FORMATION</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="7">
+        <Name>KFORMNO_K</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="8">
+        <Name>LABEL_KF_</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>0</F>
+        <F>0</F>
+        <F>739108</F>
+        <F>0</F>
+        <F>Undefined or Unmapped</F>
+        <F>8000</F>
+        <F>Undefined</F>
+        <F>F__Undefined</F>
+        <F>F___C000_Undefined</F>
+      </Row>
+      <Row index="1">
+        <F>1</F>
+        <F>1</F>
+        <F>194919</F>
+        <F>1</F>
+        <F>Subtropical Rainforests</F>
+        <F>1</F>
+        <F>Rainforests</F>
+        <F>F1_Subtropical Rainforests</F>
+        <F>F01_C001_Rainforests_Subtropical Rainforests</F>
+      </Row>
+      <Row index="2">
+        <F>2</F>
+        <F>2</F>
+        <F>3984</F>
+        <F>2</F>
+        <F>Northern Warm Temperate Rainforests</F>
+        <F>1</F>
+        <F>Rainforests</F>
+        <F>F1_Northern Warm Temperate Rainforests</F>
+        <F>F01_C002_Rainforests_Northern Warm Temperate Rainforests</F>
+      </Row>
+      <Row index="3">
+        <F>3</F>
+        <F>4</F>
+        <F>7014</F>
+        <F>4</F>
+        <F>Cool Temperate Rainforests</F>
+        <F>1</F>
+        <F>Rainforests</F>
+        <F>F1_Cool Temperate Rainforests</F>
+        <F>F01_C004_Rainforests_Cool Temperate Rainforests</F>
+      </Row>
+      <Row index="4">
+        <F>4</F>
+        <F>5</F>
+        <F>30561</F>
+        <F>5</F>
+        <F>Dry Rainforests</F>
+        <F>1</F>
+        <F>Rainforests</F>
+        <F>F1_Dry Rainforests</F>
+        <F>F01_C005_Rainforests_Dry Rainforests</F>
+      </Row>
+      <Row index="5">
+        <F>5</F>
+        <F>6</F>
+        <F>1899</F>
+        <F>6</F>
+        <F>Western Vine Thickets</F>
+        <F>1</F>
+        <F>Rainforests</F>
+        <F>F1_Dry Rainforests</F>
+        <F>F01_C006_Rainforests_Western Vine Thickets</F>
+      </Row>
+      <Row index="6">
+        <F>6</F>
+        <F>7</F>
+        <F>22</F>
+        <F>7</F>
+        <F>Littoral Rainforests</F>
+        <F>1</F>
+        <F>Rainforests</F>
+        <F>F1_Littoral Rainforests</F>
+        <F>F01_C007_Rainforests_Littoral Rainforests</F>
+      </Row>
+      <Row index="7">
+        <F>7</F>
+        <F>10</F>
+        <F>298120</F>
+        <F>10</F>
+        <F>North Coast Wet Sclerophyll Forests</F>
+        <F>2</F>
+        <F>Wet sclerophyll forests (Shrubby subformation)</F>
+        <F>F2_North Coast Wet Sclerophyll Forests</F>
+        <F>F02_C010_Wet sclerophyll forests (Shrubby subformation)_North Coast Wet Sclerophyll Forests</F>
+      </Row>
+      <Row index="8">
+        <F>8</F>
+        <F>12</F>
+        <F>127478</F>
+        <F>12</F>
+        <F>Northern Escarpment Wet Sclerophyll Forests</F>
+        <F>2</F>
+        <F>Wet sclerophyll forests (Shrubby subformation)</F>
+        <F>F2_Northern Escarpment Wet Sclerophyll Forests</F>
+        <F>F02_C012_Wet sclerophyll forests (Shrubby subformation)_Northern Escarpment Wet Sclerophyll Forests</F>
+      </Row>
+      <Row index="9">
+        <F>9</F>
+        <F>14</F>
+        <F>335809</F>
+        <F>14</F>
+        <F>Northern Hinterland Wet Sclerophyll Forests</F>
+        <F>3</F>
+        <F>Wet sclerophyll forests (Grassy subformation)</F>
+        <F>F3_Northern Hinterland Wet Sclerophyll Forests</F>
+        <F>F03_C014_Wet sclerophyll forests (Grassy subformation)_Northern Hinterland Wet Sclerophyll Forests</F>
+      </Row>
+      <Row index="10">
+        <F>10</F>
+        <F>16</F>
+        <F>150983</F>
+        <F>16</F>
+        <F>Northern Tableland Wet Sclerophyll Forests</F>
+        <F>3</F>
+        <F>Wet sclerophyll forests (Grassy subformation)</F>
+        <F>F3_Northern Tableland Wet Sclerophyll Forests</F>
+        <F>F03_C016_Wet sclerophyll forests (Grassy subformation)_Northern Tableland Wet Sclerophyll Forests</F>
+      </Row>
+      <Row index="11">
+        <F>11</F>
+        <F>19</F>
+        <F>22163</F>
+        <F>19</F>
+        <F>Coastal Valley Grassy Woodlands</F>
+        <F>4</F>
+        <F>Grassy woodlands</F>
+        <F>F4_Coastal Valley Grassy Woodlands</F>
+        <F>F04_C019_Grassy woodlands_Coastal Valley Grassy Woodlands</F>
+      </Row>
+      <Row index="12">
+        <F>12</F>
+        <F>20</F>
+        <F>27826</F>
+        <F>20</F>
+        <F>Tableland Clay Grassy Woodlands</F>
+        <F>4</F>
+        <F>Grassy woodlands</F>
+        <F>F4_Tableland Clay Grassy Woodlands</F>
+        <F>F04_C020_Grassy woodlands_Tableland Clay Grassy Woodlands</F>
+      </Row>
+      <Row index="13">
+        <F>13</F>
+        <F>21</F>
+        <F>173768</F>
+        <F>21</F>
+        <F>New England Grassy Woodlands</F>
+        <F>4</F>
+        <F>Grassy woodlands</F>
+        <F>F4_New England Grassy Woodlands</F>
+        <F>F04_C021_Grassy_woodlands_New England Grassy Woodlands</F>
+      </Row>
+      <Row index="14">
+        <F>14</F>
+        <F>24</F>
+        <F>162401</F>
+        <F>24</F>
+        <F>Western Slopes Grassy Woodlands</F>
+        <F>4</F>
+        <F>Grassy woodlands</F>
+        <F>F4_Western Slopes Grassy Woodlands</F>
+        <F>F04_C024_Grassy_woodlands_Western Slopes Grassy Woodlands</F>
+      </Row>
+      <Row index="15">
+        <F>15</F>
+        <F>25</F>
+        <F>1022</F>
+        <F>25</F>
+        <F>Floodplain Transition Woodlands</F>
+        <F>4</F>
+        <F>Grassy woodlands</F>
+        <F>F4_Floodplain Transition Woodlands</F>
+        <F>F04_C025_Grassy_woodlands_Floodplain Transition Woodlands</F>
+      </Row>
+      <Row index="16">
+        <F>16</F>
+        <F>27</F>
+        <F>109282</F>
+        <F>27</F>
+        <F>Temperate Montane Grasslands</F>
+        <F>5</F>
+        <F>Grasslands</F>
+        <F>F5_Temperate Montane Grasslands</F>
+        <F>F05_C027_Grasslands_Temperate Montane Grasslands</F>
+      </Row>
+      <Row index="17">
+        <F>17</F>
+        <F>28</F>
+        <F>413688</F>
+        <F>28</F>
+        <F>Western Slopes Grasslands</F>
+        <F>5</F>
+        <F>Grasslands</F>
+        <F>F5_Western Slopes Grasslands</F>
+        <F>F05_C028_Grasslands_Western Slopes Grasslands</F>
+      </Row>
+      <Row index="18">
+        <F>18</F>
+        <F>30</F>
+        <F>74</F>
+        <F>30</F>
+        <F>Semi-arid Floodplain Grasslands</F>
+        <F>5</F>
+        <F>Grasslands</F>
+        <F>F5_Semi-arid Floodplain Grasslands</F>
+        <F>F05_C030_Grasslands_Semi-arid Floodplain Grasslands</F>
+      </Row>
+      <Row index="19">
+        <F>19</F>
+        <F>31</F>
+        <F>259452</F>
+        <F>31</F>
+        <F>Clarence Dry Sclerophyll Forests</F>
+        <F>6</F>
+        <F>Dry sclerophyll forests (Shrub/grass subformation)</F>
+        <F>F6_Clarence Dry Sclerophyll Forests</F>
+        <F>F06_C031_Dry sclerophyll forests (Shrub/grass subformation)_Clarence Dry Sclerophyll Forests</F>
+      </Row>
+      <Row index="20">
+        <F>20</F>
+        <F>32</F>
+        <F>7502</F>
+        <F>32</F>
+        <F>Hunter-Macleay Dry Sclerophyll Forests</F>
+        <F>6</F>
+        <F>Dry sclerophyll forests (Shrub/grass subformation)</F>
+        <F>F6_Hunter-Macleay Dry Sclerophyll Forests</F>
+        <F>F06_C032_Dry sclerophyll forests (Shrub/grass subformation)_Hunter-Macleay Dry Sclerophyll Forests</F>
+      </Row>
+      <Row index="21">
+        <F>21</F>
+        <F>35</F>
+        <F>496882</F>
+        <F>35</F>
+        <F>Northern Gorge Dry Sclerophyll Forests</F>
+        <F>6</F>
+        <F>Dry sclerophyll forests (Shrub/grass subformation)</F>
+        <F>F6_Northern Gorge Dry Sclerophyll Forests</F>
+        <F>F06_C035_Dry sclerophyll forests (Shrub/grass subformation)_Northern Gorge Dry Sclerophyll Forests</F>
+      </Row>
+      <Row index="22">
+        <F>22</F>
+        <F>37</F>
+        <F>354092</F>
+        <F>37</F>
+        <F>New England Dry Sclerophyll Forests</F>
+        <F>6</F>
+        <F>Dry sclerophyll forests (Shrub/grass subformation)</F>
+        <F>F6_New England Dry Sclerophyll Forests</F>
+        <F>F06_C037_Dry sclerophyll forests (Shrub/grass subformation)_New England Dry Sclerophyll Forests</F>
+      </Row>
+      <Row index="23">
+        <F>23</F>
+        <F>38</F>
+        <F>203998</F>
+        <F>38</F>
+        <F>North-west Slopes Dry Sclerophyll Woodlands</F>
+        <F>6</F>
+        <F>Dry sclerophyll forests (Shrub/grass subformation)</F>
+        <F>F6_North-west Slopes Dry Sclerophyll Woodlands</F>
+        <F>F06_C038_Dry sclerophyll forests (Shrub/grass subformation)_North-west Slopes Dry Sclerophyll Woodlands</F>
+      </Row>
+      <Row index="24">
+        <F>24</F>
+        <F>40</F>
+        <F>8</F>
+        <F>40</F>
+        <F>Pilliga Outwash Dry Sclerophyll Forests</F>
+        <F>6</F>
+        <F>Dry sclerophyll forests (Shrub/grass subformation)</F>
+        <F>F6_Pilliga Outwash Dry Sclerophyll Forests</F>
+        <F>F06_C040_Dry sclerophyll forests (Shrub/grass subformation)_Pilliga Outwash Dry Sclerophyll Forests</F>
+      </Row>
+      <Row index="25">
+        <F>25</F>
+        <F>41</F>
+        <F>4394</F>
+        <F>41</F>
+        <F>Coastal Dune Dry Sclerophyll Forests</F>
+        <F>7</F>
+        <F>Dry sclerophyll forests (Shrubby subformation)</F>
+        <F>F7_Coastal Dune Dry Sclerophyll Forests</F>
+        <F>F07_C041_Dry sclerophyll forests (Shrubby subformation)_Coastal Dune Dry Sclerophyll Forests</F>
+      </Row>
+      <Row index="26">
+        <F>26</F>
+        <F>42</F>
+        <F>29142</F>
+        <F>42</F>
+        <F>North Coast Dry Sclerophyll Forests</F>
+        <F>7</F>
+        <F>Dry sclerophyll forests (Shrubby subformation)</F>
+        <F>F7_North Coast Dry Sclerophyll Forests</F>
+        <F>F07_C042_Dry sclerophyll forests (Shrubby subformation)_North Coast Dry Sclerophyll Forests</F>
+      </Row>
+      <Row index="27">
+        <F>27</F>
+        <F>49</F>
+        <F>29745</F>
+        <F>49</F>
+        <F>Northern Escarpment Dry Sclerophyll Forests</F>
+        <F>7</F>
+        <F>Dry sclerophyll forests (Shrubby subformation)</F>
+        <F>F7_Northern Escarpment Dry Sclerophyll Forests</F>
+        <F>F07_C049_Dry sclerophyll forests (Shrubby subformation)_Northern Escarpment Dry Sclerophyll Forests</F>
+      </Row>
+      <Row index="28">
+        <F>28</F>
+        <F>51</F>
+        <F>310345</F>
+        <F>51</F>
+        <F>Northern Tableland Dry Sclerophyll Forests</F>
+        <F>7</F>
+        <F>Dry sclerophyll forests (Shrubby subformation)</F>
+        <F>F7_Northern Tableland Dry Sclerophyll Forests</F>
+        <F>F07_C051_Dry sclerophyll forests (Shrubby subformation)_Northern Tableland Dry Sclerophyll Forests</F>
+      </Row>
+      <Row index="29">
+        <F>29</F>
+        <F>53</F>
+        <F>14295</F>
+        <F>53</F>
+        <F>Western Slopes Dry Sclerophyll Forests</F>
+        <F>7</F>
+        <F>Dry sclerophyll forests (Shrubby subformation)</F>
+        <F>F7_Western Slopes Dry Sclerophyll Forests</F>
+        <F>F07_C053_Dry sclerophyll forests (Shrubby subformation)_Western Slopes Dry Sclerophyll Forests</F>
+      </Row>
+      <Row index="30">
+        <F>30</F>
+        <F>54</F>
+        <F>107421</F>
+        <F>54</F>
+        <F>Yetman Dry Sclerophyll Forests</F>
+        <F>7</F>
+        <F>Dry sclerophyll forests (Shrubby subformation)</F>
+        <F>F7_Yetman Dry Sclerophyll Forests</F>
+        <F>F07_C054_Dry sclerophyll forests (Shrubby subformation)_Yetman Dry Sclerophyll Forests</F>
+      </Row>
+      <Row index="31">
+        <F>31</F>
+        <F>56</F>
+        <F>4354</F>
+        <F>56</F>
+        <F>Wallum Sand Heaths</F>
+        <F>8</F>
+        <F>Heathlands</F>
+        <F>F8_Wallum Sand Heaths</F>
+        <F>F08_C056_Heathlands_Wallum Sand Heaths</F>
+      </Row>
+      <Row index="32">
+        <F>32</F>
+        <F>59</F>
+        <F>18263</F>
+        <F>59</F>
+        <F>Northern Montane Heaths</F>
+        <F>8</F>
+        <F>Heathlands</F>
+        <F>F8_Northern Montane Heaths</F>
+        <F>F08_C059_Heathlands_Northern Montane Heaths</F>
+      </Row>
+      <Row index="33">
+        <F>33</F>
+        <F>66</F>
+        <F>1339</F>
+        <F>66</F>
+        <F>Coastal Heath Swamps</F>
+        <F>10</F>
+        <F>Freshwater wetlands</F>
+        <F>F10_Coastal Heath Swamps</F>
+        <F>F10_C066_Freshwater wetlands_Coastal Heath Swamps</F>
+      </Row>
+      <Row index="34">
+        <F>34</F>
+        <F>67</F>
+        <F>7620</F>
+        <F>67</F>
+        <F>Montane Bogs and Fens</F>
+        <F>10</F>
+        <F>Freshwater wetlands</F>
+        <F>F10_Montane Bogs and Fens</F>
+        <F>F10_C067_Freshwater wetlands_Montane Bogs and Fens</F>
+      </Row>
+      <Row index="35">
+        <F>35</F>
+        <F>68</F>
+        <F>3210</F>
+        <F>68</F>
+        <F>Coastal Freshwater Lagoons</F>
+        <F>10</F>
+        <F>Freshwater wetlands</F>
+        <F>F10_Coastal Freshwater Lagoons</F>
+        <F>F10_C068_Freshwater wetlands_Coastal Freshwater Lagoons</F>
+      </Row>
+      <Row index="36">
+        <F>36</F>
+        <F>69</F>
+        <F>495</F>
+        <F>69</F>
+        <F>Montane Lakes</F>
+        <F>10</F>
+        <F>Freshwater wetlands</F>
+        <F>F10_Montane Lakes</F>
+        <F>F10_C069_Freshwater wetlands_Montane Lakes</F>
+      </Row>
+      <Row index="37">
+        <F>37</F>
+        <F>70</F>
+        <F>231</F>
+        <F>70</F>
+        <F>Inland Floodplain Swamps</F>
+        <F>10</F>
+        <F>Freshwater wetlands</F>
+        <F>F10_Inland Floodplain Swamps</F>
+        <F>F10_C070_Freshwater wetlands_Inland Floodplain Swamps</F>
+      </Row>
+      <Row index="38">
+        <F>38</F>
+        <F>72</F>
+        <F>8347</F>
+        <F>72</F>
+        <F>Coastal Swamp Forests</F>
+        <F>11</F>
+        <F>Forested wetlands</F>
+        <F>F11_Coastal Swamp Forests</F>
+        <F>F11_C072_Forested wetlands_Coastal Swamp Forests</F>
+      </Row>
+      <Row index="39">
+        <F>39</F>
+        <F>73</F>
+        <F>1247</F>
+        <F>73</F>
+        <F>Coastal Floodplain Wetlands</F>
+        <F>11</F>
+        <F>Forested wetlands</F>
+        <F>F11_Coastal Floodplain Wetlands</F>
+        <F>F11_C073_Forested wetlands_Coastal Floodplain Wetlands</F>
+      </Row>
+      <Row index="40">
+        <F>40</F>
+        <F>74</F>
+        <F>3126</F>
+        <F>74</F>
+        <F>Eastern Riverine Forests</F>
+        <F>11</F>
+        <F>Forested wetlands</F>
+        <F>F11_Eastern Riverine Forests</F>
+        <F>F11_C074_Forested wetlands_Eastern Riverine Forests</F>
+      </Row>
+      <Row index="41">
+        <F>41</F>
+        <F>75</F>
+        <F>11828</F>
+        <F>75</F>
+        <F>Inland Riverine Forests</F>
+        <F>11</F>
+        <F>Forested wetlands</F>
+        <F>F11_Inland Riverine Forests</F>
+        <F>F11_C075_Forested wetlands_Inland Riverine Forests</F>
+      </Row>
+      <Row index="42">
+        <F>42</F>
+        <F>76</F>
+        <F>546</F>
+        <F>76</F>
+        <F>Mangrove Swamps</F>
+        <F>12</F>
+        <F>Saline  wetlands</F>
+        <F>F12_Mangrove Swamps</F>
+        <F>F11_C076_Forested wetlands_Mangrove Swamps</F>
+      </Row>
+      <Row index="43">
+        <F>43</F>
+        <F>77</F>
+        <F>750</F>
+        <F>77</F>
+        <F>Saltmarshes</F>
+        <F>12</F>
+        <F>Saline  wetlands</F>
+        <F>F12_Saltmarshes</F>
+        <F>F12_C077_Saline  wetlands_Saltmarshes</F>
+      </Row>
+      <Row index="44">
+        <F>44</F>
+        <F>81</F>
+        <F>794</F>
+        <F>81</F>
+        <F>North-west Floodplain Woodlands</F>
+        <F>13</F>
+        <F>Semi-arid woodlands (Grassy subformation)</F>
+        <F>F13_North-west Floodplain Woodlands</F>
+        <F>F13_C081_Semi-arid woodlands (Grassy subformation)_North-west Floodplain Woodlands</F>
+      </Row>
+      <Row index="45">
+        <F>45</F>
+        <F>82</F>
+        <F>431</F>
+        <F>82</F>
+        <F>Riverine Plain Woodlands</F>
+        <F>13</F>
+        <F>Semi-arid woodlands (Grassy subformation)</F>
+        <F>F13_Riverine Plain Woodlands</F>
+        <F>F13_C082_Semi-arid woodlands (Grassy subformation)_Riverine Plain Woodlands</F>
+      </Row>
+      <Row index="46">
+        <F>46</F>
+        <F>83</F>
+        <F>3381</F>
+        <F>83</F>
+        <F>Brigalow Clay Plain Woodlands</F>
+        <F>13</F>
+        <F>Semi-arid woodlands (Grassy subformation)</F>
+        <F>F13_Brigalow Clay Plain Woodlands</F>
+        <F>F13_C083_Semi-arid woodlands (Grassy subformation)_Brigalow Clay Plain Woodlands</F>
+      </Row>
+      <Row index="47">
+        <F>47</F>
+        <F>84</F>
+        <F>2480</F>
+        <F>84</F>
+        <F>North-west Alluvial Sand Woodlands</F>
+        <F>14</F>
+        <F>Semi-arid woodlands (Shrubby subformation)</F>
+        <F>F14_North-west Alluvial Sand Woodlands</F>
+        <F>F14_C084_Semi-arid woodlands (Shrubby subformation)_North-west Alluvial Sand Woodlands</F>
+      </Row>
+      <Row index="48">
+        <F>48</F>
+        <F>87</F>
+        <F>353</F>
+        <F>87</F>
+        <F>Subtropical Semi-arid Woodlands</F>
+        <F>14</F>
+        <F>Semi-arid woodlands (Shrubby subformation)</F>
+        <F>F14_Subtropical Semi-arid Woodlands</F>
+        <F>F14_C087_Semi-arid woodlands (Shrubby subformation)_Subtropical Semi-arid Woodlands</F>
+      </Row>
+      <Row index="49">
+        <F>49</F>
+        <F>88</F>
+        <F>67</F>
+        <F>88</F>
+        <F>Western Peneplain Woodlands</F>
+        <F>14</F>
+        <F>Semi-arid woodlands (Shrubby subformation)</F>
+        <F>F14_Western Peneplain Woodlands</F>
+        <F>F14_C088_Semi-arid woodlands (Shrubby subformation)_Western Peneplain Woodlands</F>
+      </Row>
+      <Row index="50">
+        <F>50</F>
+        <F>93</F>
+        <F>9141</F>
+        <F>93</F>
+        <F>Riverine Chenopod Shrublands</F>
+        <F>15</F>
+        <F>Arid shrublands (Chenopod subformation)</F>
+        <F>F15_Riverine Chenopod Shrublands</F>
+        <F>F15_C093_Arid shrublands (Chenopod subformation)_Riverine Chenopod Shrublands</F>
+      </Row>
+      <Row index="51">
+        <F>51</F>
+        <F>100</F>
+        <F>33995</F>
+        <F>100</F>
+        <F>Native forest plantations</F>
+        <F>0</F>
+        <F>Cleared</F>
+        <F>F0_Cleared</F>
+        <F>F00_C100_Cleared_Native forest plantations</F>
+      </Row>
+      <Row index="52">
+        <F>52</F>
+        <F>101</F>
+        <F>10353</F>
+        <F>101</F>
+        <F>Non-native forest or plantations</F>
+        <F>0</F>
+        <F>Cleared</F>
+        <F>F0_Cleared</F>
+        <F>F00_C101_Cleared_Non-native forest or plantations</F>
+      </Row>
+      <Row index="53">
+        <F>53</F>
+        <F>104</F>
+        <F>5360</F>
+        <F>104</F>
+        <F>Water Bodies</F>
+        <F>0</F>
+        <F>Cleared</F>
+        <F>F0_Cleared</F>
+        <F>F00_C104_Cleared_Water Bodies</F>
+      </Row>
+      <Row index="54">
+        <F>54</F>
+        <F>999</F>
+        <F>1211415</F>
+        <F>999</F>
+        <F>Cleared or greater than 0.7 modified</F>
+        <F>0</F>
+        <F>Cleared</F>
+        <F>F0_Cleared</F>
+        <F>F00_C999_Cleared_Cleared or greater than 0.7 modified</F>
+      </Row>
+      <Row index="55">
+        <F>55</F>
+        <F>1000</F>
+        <F>535402</F>
+        <F>1000</F>
+        <F>Native Woody</F>
+        <F>1000</F>
+        <F>Native Woody</F>
+        <F>F__Native Woody</F>
+        <F>F___C1000_Native Woody</F>
+      </Row>
+      <Row index="56">
+        <F>56</F>
+        <F>2000</F>
+        <F>3855</F>
+        <F>2000</F>
+        <F>Other</F>
+        <F>0</F>
+        <F>Cleared</F>
+        <F>F0_Cleared</F>
+        <F>F00_C2000_Cleared_Other</F>
+      </Row>
+      <Row index="57">
+        <F>57</F>
+        <F>3000</F>
+        <F>21812</F>
+        <F>3000</F>
+        <F>Native Non-woody</F>
+        <F>3000</F>
+        <F>Native Non-woody</F>
+        <F>F__Native Non-woody</F>
+        <F>F___C3000_Native Non-woody</F>
+      </Row>
+      <Row index="58">
+        <F>58</F>
+        <F>4000</F>
+        <F>737280</F>
+        <F>4000</F>
+        <F>Indeterminate Non-woody</F>
+        <F>4000</F>
+        <F>Indeterminate Non-woody</F>
+        <F>F__Indeterminate Non-woody</F>
+        <F>F___C4000_Indeterminate Non-woody</F>
+      </Row>
+      <Row index="59">
+        <F>59</F>
+        <F>5000</F>
+        <F>92004</F>
+        <F>5000</F>
+        <F>Indeterminate Woody</F>
+        <F>5000</F>
+        <F>Indeterminate Woody</F>
+        <F>F__Indeterminate Woody</F>
+        <F>F___C5000_Indeterminate Woody</F>
+      </Row>
+      <Row index="60">
+        <F>60</F>
+        <F>6000</F>
+        <F>99684</F>
+        <F>6000</F>
+        <F>Exotic Non-woody</F>
+        <F>0</F>
+        <F>Cleared</F>
+        <F>F0_Cleared</F>
+        <F>F00_C6000_Cleared_Exotic Non-woody</F>
+      </Row>
+      <Row index="61">
+        <F>61</F>
+        <F>7000</F>
+        <F>8621</F>
+        <F>7000</F>
+        <F>Exotic Woody</F>
+        <F>0</F>
+        <F>Cleared</F>
+        <F>F0_Cleared</F>
+        <F>F00_C7000_Cleared_Exotic Woody</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">7000</MDI>
+      <MDI key="STATISTICS_MEAN">805.31961947</MDI>
+      <MDI key="STATISTICS_STDDEV">1429.4499001265</MDI>
+      <MDI key="STATISTICS_COVARIANCES">2043327.01697169</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
