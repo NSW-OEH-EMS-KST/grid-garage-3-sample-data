@@ -1,18 +1,15 @@
+TO DO - REVISE THIS README
+
 NSW SPOT Woody extent and FPC for 2011 with 5 m pixels.
 These are supplied by the NSW Office of Environment and Heritage.
 data.broker@environment.nsw.gov.au
-
-
 
 Two products, with both statewide mosaics and tiles are supplied.
 The first product is woody extent. These are the files with 'bcu' in their
 name.
 
-
 The second product is woody extent and foliage projective cover (FPC). These 
 are the files with 'bcv' in their name.
-
-
 
 The tiles are identified by their row and column in the filenames, for example
 r423c102.
