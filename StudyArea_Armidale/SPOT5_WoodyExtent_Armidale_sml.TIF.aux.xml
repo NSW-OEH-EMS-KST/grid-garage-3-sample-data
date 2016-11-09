@@ -2,6 +2,9 @@
   <Metadata>
     <MDI key="DataType">Thematic</MDI>
   </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
   <PAMRasterBand band="1">
     <Description>Band_1</Description>
     <Histograms>
@@ -18,7 +21,6 @@
       <MDI key="BandName">Band_1</MDI>
       <MDI key="RepresentationType">ATHEMATIC</MDI>
       <MDI key="STATISTICS_COVARIANCES">0</MDI>
-      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
       <MDI key="STATISTICS_MAXIMUM">1</MDI>
       <MDI key="STATISTICS_MEAN">1</MDI>
       <MDI key="STATISTICS_MINIMUM">1</MDI>
