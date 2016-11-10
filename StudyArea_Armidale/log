@@ -1,4 +1,8 @@
 201509241554   0     0     0barrett C:\Data\GIS\Grid_Garage_Test_Data\Grid_Garage\sample_data\StudyArea_Armidale\Polygon\MCASS_StudyAreaTemplate30m.shp = GRIDSHAPE(
 201611091300   0     0     0tbarret5 C:\Data\GitHub\grid-garage-3-sample-data\StudyArea_Armidale\mcass_studyareatemplate30m_sml = GRIDSHAPE(C:\Data\GitHub\grid-garag
+<<<<<<< HEAD
 201611101140   0     1     0tbarret5 C:\Data\gg3\grid-garage-3-sample-data\StudyArea_Armidale\BlockSt_SPOT1 = BLOCKSUM(C:\Data\gg3\grid-garage-3-sample-data\StudyArea_Armidale\SPOT5_WoodyExtent_Armidale_sml.TIF,  Rectangle, 6 , 6, DATA)
 201611101219   0     0     0tbarret5 C:\Data\gg3\grid-garage-3-sample-data\StudyArea_Armidale\mcass_studyareatemplate30m_sml = GRIDSHAPE(C:\Data\gg3\grid-garage-3-sa
+=======
+201611101008   0     0     0aspire C:\Data\gg3\grid-garage-3-sample-data\StudyArea_Armidale\BlockSt_SPOT1 = BLOCKMEAN(C:\Data\gg3\grid-garage-3-sample-data\StudyArea_Armidale\SPOT5_WoodyExtent_Armidale_sml.TIF,  Rectangle, 3 , 3, DATA)
+>>>>>>> 8a9c5cfad17c8d8b473267efe5307ee2fda5c8bd
