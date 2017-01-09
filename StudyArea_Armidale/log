@@ -6,3 +6,6 @@
 =======
 201611101008   0     0     0aspire C:\Data\gg3\grid-garage-3-sample-data\StudyArea_Armidale\BlockSt_SPOT1 = BLOCKMEAN(C:\Data\gg3\grid-garage-3-sample-data\StudyArea_Armidale\SPOT5_WoodyExtent_Armidale_sml.TIF,  Rectangle, 3 , 3, DATA)
 >>>>>>> 8a9c5cfad17c8d8b473267efe5307ee2fda5c8bd
+201611221316   0     0     0barrett C:\Data\gg3\grid-garage-3-tests\raster - values at points\values at points.gdb\ESRI_Tool = EXTRACTVALUESTOPOINTS(C:\Data\gg3\gri
+201611221320   0     0     0barrett C:\Data\gg3\grid-garage-3-sample-data\StudyArea_Armidale\Extract_Test_Po3 = EXTRACTVALUESTOPOINTS(C:\Data\gg3\grid-garage-3-samp
+201611221454   0     0     0barrett C:\Data\gg3\grid-garage-3-sample-data\StudyArea_Armidale\netvegkc100m_sml = GRIDSHAPE(C:\Data\gg3\grid-garage-3-sample-data\Stud
