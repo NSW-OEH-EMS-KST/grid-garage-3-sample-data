@@ -1,9 +1,0 @@
-Sheep numbers (Thousand Dry Sheep Equivalents) by SA2
-Description: Sheep numbers (Thousand Dry Sheep Equivalents) by Statistical Area Level 2
-Custodian: ABARES
-Currency: Data 2011 
-Latest update: 2013/11
-Resolution: 1000m x 1000m 
-Lineage: Dry Sheep Equivalent (DSE) based on ABS 2010-2011 Agricultural Census data classified by SA2 regions, processed using ABARES methodology = 0.6*Marked lambs under 1 year + 1.7*Breeding ewes 1 year and over (merino + all other) + 1 * All other.
-DSE values were joined to SA2 boundaries, and a raster was created where cells were given the value for the corresponding SA2.
-URL: http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/7121.02010-11?OpenDocument
